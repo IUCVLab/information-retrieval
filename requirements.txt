@@ -1,2 +1,4 @@
 #TODO issue #1
 annoy~=1.17.0
+bs4~=0.0.1
+feedparser~=6.0.8
