@@ -1,4 +1,6 @@
 #TODO issue #1
 annoy~=1.17.0
+argparse~=1.4.0
 bs4~=0.0.1
 feedparser~=6.0.8
+requests~=2.25.1
