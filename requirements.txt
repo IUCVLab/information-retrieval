@@ -1,10 +1,9 @@
-#TODO issue #1
-annoy~=1.17.0
-argparse~=1.4.0
-bs4~=0.0.1
-feedparser~=6.0.8
+annoy>=1.17.0
+argparse>=1.4.0
+bs4>=0.0.1
+feedparser>=6.0.8
 hnswlib
-jsonlines~=3.0.0
+jsonlines>=3.0.0
 librosa
 matplotlib
 nltk
@@ -12,11 +11,11 @@ numpy>=1.15
 opencv-contrib-python
 opencv-python
 pandas
-pygtrie~=2.4.2
-requests~=2.25.1
+pygtrie>=2.4.2
+requests>=2.25.1
 scikit-learn
 scipy
-selenium~=4.1.0
+selenium>=4.1.0
 spacy
 spacy-transformers
 tqdm
