@@ -15,6 +15,10 @@ This repository aggregates reading materials, lab templates, datasets and other 
 
 - Topic modelling is usually a side topic for IR, but it is very important when things come to clustering, debiasing, analysis. To leading approaches are PLSA and LDA. Here are some interesting materials: [topic modelling (rus)](http://www.machinelearning.ru/wiki/images/2/22/voron-2013-ptm.pdf), [tutorials](http://machinelearning.ru/wiki/images/1/1f/Voron14aist.pdf), [LDA original paper](https://jmlr.org/papers/volume3/blei03a/blei03a.pdf).
 
+## Course structure and material links
+
+[Please find them on a separate page](/CONTENT.md).
+
 ## Other courses with slides and labs
 
 - [Access this course](https://github.com/sebastian-hofstaetter/teaching), especially advanced part, if you want to know more about IR with neural networks.
