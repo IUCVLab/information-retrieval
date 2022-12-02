@@ -3,6 +3,8 @@ argparse>=1.4.0
 bs4>=0.0.1
 feedparser>=6.0.8
 hnswlib
+imageio
+img2vec_pytorch
 jsonlines>=3.0.0
 librosa
 matplotlib
@@ -11,6 +13,7 @@ numpy>=1.15
 opencv-contrib-python
 opencv-python
 pandas
+Pillow
 pygtrie>=2.4.2
 requests>=2.25.1
 scikit-learn
